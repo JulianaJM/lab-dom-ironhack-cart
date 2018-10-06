@@ -44,9 +44,11 @@ h1 {
     text-align: center;
 }
 
-.product {
+.product,
+.new-product {
     display: flex;
     justify-content: space-around;
+    margin-bottom: 30px;
 }
 
 .total {
